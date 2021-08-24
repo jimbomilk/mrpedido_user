@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606420584354",
+    "project_id": "mrpedido-90cf7",
+    "storage_bucket": "mrpedido-90cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606420584354:android:59065cf8d323302b2414fb",
+        "android_client_info": {
+          "package_name": "com.tecniseo.mrpedido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606420584354-d2taq86lu92nlm7so09er62hqlunm7pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1obcH6zSG0AHbs_tkuOu8C1lCSNw3wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606420584354-d2taq86lu92nlm7so09er62hqlunm7pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
