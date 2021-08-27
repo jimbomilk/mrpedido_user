@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/tecniseo/mrpedido/BuildConfig.java
+ com.tecniseo.mrpedido.BuildConfig
